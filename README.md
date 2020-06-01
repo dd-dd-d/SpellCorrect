@@ -1,9 +1,10 @@
 # SpellCorrect
  a project to spell correct 
 
-##项目目标
+## 项目目标
 
-##实现功能
+## 实现功能
 
-##运行方法
-###运行环境
+## 运行方法
+
+### 运行环境
